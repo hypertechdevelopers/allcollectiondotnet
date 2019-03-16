@@ -1,0 +1,11 @@
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\bin\Debug\Todo Colección.exe
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\bin\Debug\Todo Colección.pdb
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\bin\Debug\Todo Colección.xml
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.vbprojAssemblyReference.cache
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo_Colección.Form1.resources
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo_Colección.Resources.resources
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.vbproj.GenerateResource.cache
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.vbproj.CoreCompileInputs.cache
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.exe
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.xml
+C:\Users\susan\source\repos\Todo Colección\Todo Colección\obj\Debug\Todo Colección.pdb
